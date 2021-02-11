@@ -1,0 +1,7 @@
+#yCloud: DBD
+//name:"say";
+{
+$noMentionMessage
+$onlyAdmin[]
+}
+^yCloud/^//DBD
