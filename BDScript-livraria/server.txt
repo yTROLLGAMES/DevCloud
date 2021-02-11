@@ -1,0 +1,10 @@
+#Server.Login
+
+{"bot:"Console"}
+<google:on>
+ $client.on('dbd.cloud');cloud
+
+* dbd.ip: 0.0.0.0
+* dbd.port: 80
+//CloudBoostID: 125.0.45
+[/yCloud], {"yCloud":"Geniais, DBD"}

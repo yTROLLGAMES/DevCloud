@@ -1,0 +1,20 @@
+#Config.dbd.Cloud
+[/yCloud/Core.api];
+
+<CPN.lm>
+  {"host":"yCloud"}
+  {"SO":"Android, Linux}
+  {"cdn":"CordHosted"}
+"cordHost"(Serviço de projeção yCloud/Api de nuvem privada"
+
+* Cloud ^9.2.6^
+* dbd.bdscript && terminal
+* GhostTools: ^12.8^
+* Repo: https://4repo.ghsthost.98web.ok (LocalHost)
+
+</>[GITHUB] https://github.com/yTROLLGAMES/
+
+{"kingAPI":"cdn, CordSO"//yCloud}
+ "embed: ^5.80^
+
+$Cloud.trghs

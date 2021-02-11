@@ -1,0 +1,10 @@
+#yCloud ITF-Script, Discord API
+<yCloud> Host Package </yCloud>
+{
+   "server":"ATB-441";
+   "host":"89.456.90";
+   "discord":"ms-cluster";
+   "SSID":"CordHost";
+   "langue":"BDScript/DBD";
+   [set;CloudSupport;]
+}

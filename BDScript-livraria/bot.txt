@@ -1,0 +1,8 @@
+#yCloud Script DBD: Discord.dbd
+{
+   "botname":"nome do seu bot"
+   "token":"token do bot"
+   "botID":"id do bot"
+   "ownerID":"id da sua conta"
+   "yCloud":"dbd"
+}
